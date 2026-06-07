@@ -1,15 +1,15 @@
 # Customer_Purchase_Behaviour_Analytics
-Project Overview
+### Project Overview
 
 The Customer Purchase Behaviour Analytics Dashboard is a data analytics project designed to analyze customer purchasing patterns, spending behavior, product preferences, and revenue trends. The project transforms raw customer transaction data into meaningful business insights through data preprocessing, statistical analysis, and interactive Power BI dashboards.
 
 The objective is to help businesses understand customer behavior, identify high-value customers, optimize marketing strategies, and support data-driven decision-making.
 
-Business Problem
+### Business Problem
 
 Businesses generate large volumes of customer transaction data, but extracting actionable insights from this data can be challenging. Understanding customer demographics, purchasing habits, product preferences, and seasonal trends is essential for improving customer retention, increasing sales, and maximizing profitability.
 
-Objectives
+### Objectives
 
 + Analyze customer purchasing behavior and spending patterns.
 + Identify top-performing product categories and revenue drivers.
@@ -18,7 +18,7 @@ Objectives
 + Discover seasonal and category-wise sales trends.
 + Create interactive dashboards for business decision-making.
 
-Technologies Used
+### Technologies Used
 
 + Python
 + Pandas
@@ -29,7 +29,7 @@ Technologies Used
 + Power BI
 + Jupyter Notebook
 
-Dataset Features
+### Dataset Features
 
 + Customer ID
 + Age
@@ -46,7 +46,7 @@ Dataset Features
 + Discount Applied
 + Membership Status
 
-Project Workflow
+### Project Workflow
 
 + Data Collection
 + Data Cleaning & Preprocessing
@@ -56,7 +56,7 @@ Project Workflow
 + Dashboard Development in Power BI
 + Business Insights Generation
   
-Data Preprocessing
+### Data Preprocessing
 
 + Removed duplicate records.
 + Handled missing values.
@@ -65,7 +65,7 @@ Data Preprocessing
 + Performed feature validation and quality checks.
 + Prepared data for analysis and visualization.
 
-Exploratory Data Analysis
+### Exploratory Data Analysis
 
 + Univariate Analysis
 + Bivariate Analysis
@@ -76,14 +76,14 @@ Performed hypothesis testing to validate business assumptions, including:
 + Impact of membership status on purchase amount.
 + Relationship between customer ratings and spending behavior.
   
-Power BI Dashboards
+### Power BI Dashboards
 
 + Dashboard 1: Executive Overview
 + Dashboard 2: Customer Segmentation
 + Dashboard 3: Product & Sales Analysis
 + Dashboard 4: Customer Loyalty & Retention
 
-Key Insights
+### Key Insights
 
 + Certain product categories generate significantly higher revenue.
 + Membership customers spend more than non-members.
@@ -91,7 +91,7 @@ Key Insights
 + Higher customer ratings are associated with increased sales.
 + Repeat customers contribute substantially to overall revenue.
 
-Business Impact
+### Business Impact
 
 + Improved understanding of customer purchasing patterns.
 + Enhanced customer segmentation strategies.
@@ -99,7 +99,7 @@ Business Impact
 + Identified revenue growth opportunities.
 + Enabled effective business performance monitoring.
 
-Future Enhancements
+### Future Enhancements
 
 + Customer Lifetime Value (CLV) Prediction
 + Customer Segmentation using Machine Learning
@@ -107,7 +107,7 @@ Future Enhancements
 + Real-Time Dashboard Integration
 + Recommendation System Development
 
-Conclusion
+### Conclusion
 
 This project demonstrates how data analytics and business intelligence tools can transform raw customer data into actionable insights. By combining Python, MySQL, and Power BI, the dashboard provides a comprehensive view of customer behavior, helping organizations improve decision-making, customer retention, and revenue growth.
 
