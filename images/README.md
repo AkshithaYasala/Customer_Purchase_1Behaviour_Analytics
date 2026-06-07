@@ -1,4 +1,4 @@
 ## Executive Overview Dashboard
 
-![Executive Overview Dashboard](images/ExecutiveOverviewDashboard.png)
+![Executive Overview Dashboard](images/ExecutiveOverviewAnalysis.png)
 
