@@ -31,96 +31,82 @@ Technologies Used
 
 Dataset Features
 
-Customer ID
-Age
-Gender
-Location
-Income Level
-Product Category
-Purchase Amount
-Quantity Purchased
-Payment Method
-Shopping Frequency
-Purchase Date
-Customer Rating
-Discount Applied
-Membership Status
++ Customer ID
++ Age
++ Gender
++ Location
++ Income Level
++ Product Category
++ Purchase Amount
++ Quantity Purchased
++ Payment Method
++ Shopping Frequency
++ Purchase Date
++ Customer Rating
++ Discount Applied
++ Membership Status
 
 Project Workflow
 
-Data Collection
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Statistical & Hypothesis Testing
-MySQL-Based Data Analysis
-Dashboard Development in Power BI
-Business Insights Generation
++ Data Collection
++ Data Cleaning & Preprocessing
++ Exploratory Data Analysis (EDA)
++ Statistical & Hypothesis Testing
++ MySQL-Based Data Analysis
++ Dashboard Development in Power BI
++ Business Insights Generation
+  
 Data Preprocessing
-Removed duplicate records.
-Handled missing values.
-Corrected data types.
-Standardized categorical values.
-Performed feature validation and quality checks.
-Prepared data for analysis and visualization.
+
++ Removed duplicate records.
++ Handled missing values.
++ Corrected data types.
++ Standardized categorical values.
++ Performed feature validation and quality checks.
++ Prepared data for analysis and visualization.
+
 Exploratory Data Analysis
-Univariate Analysis
-Customer Age Distribution
-Gender Distribution
-Purchase Amount Distribution
-Bivariate Analysis
-Gender vs Purchase Amount
-Product Category vs Revenue
-Membership Status vs Spending
-Multivariate Analysis
-Age, Gender, and Spending Analysis
-Season, Product Category, and Revenue Analysis
-Customer Segmentation Insights
+
++ Univariate Analysis
++ Bivariate Analysis
++ Multivariate Analysis
+
 Statistical Analysis
-
 Performed hypothesis testing to validate business assumptions, including:
-
-Impact of membership status on purchase amount.
-Relationship between customer ratings and spending behavior.
++ Impact of membership status on purchase amount.
++ Relationship between customer ratings and spending behavior.
+  
 Power BI Dashboards
-Dashboard 1: Executive Overview
-Total Customers
-Total Revenue
-Average Purchase Value
-Revenue Trends
-Customer Demographics
-Dashboard 2: Customer Segmentation
-Age Group Analysis
-Gender Analysis
-Income-Level Distribution
-Membership Analysis
-Dashboard 3: Product & Sales Analysis
-Product Category Performance
-Revenue Contribution
-Quantity Purchased Analysis
-Seasonal Trends
-Dashboard 4: Customer Loyalty & Retention
-Repeat Customers
-Subscription Rate
-Customer Ratings
-Customer Retention Metrics
+
++ Dashboard 1: Executive Overview
++ Dashboard 2: Customer Segmentation
++ Dashboard 3: Product & Sales Analysis
++ Dashboard 4: Customer Loyalty & Retention
+
 Key Insights
-Certain product categories generate significantly higher revenue.
-Membership customers spend more than non-members.
-Seasonal trends influence customer purchasing behavior.
-Higher customer ratings are associated with increased sales.
-Repeat customers contribute substantially to overall revenue.
+
++ Certain product categories generate significantly higher revenue.
++ Membership customers spend more than non-members.
++ Seasonal trends influence customer purchasing behavior.
++ Higher customer ratings are associated with increased sales.
++ Repeat customers contribute substantially to overall revenue.
+
 Business Impact
-Improved understanding of customer purchasing patterns.
-Enhanced customer segmentation strategies.
-Supported data-driven marketing decisions.
-Identified revenue growth opportunities.
-Enabled effective business performance monitoring.
+
++ Improved understanding of customer purchasing patterns.
++ Enhanced customer segmentation strategies.
++ Supported data-driven marketing decisions.
++ Identified revenue growth opportunities.
++ Enabled effective business performance monitoring.
+
 Future Enhancements
-Customer Lifetime Value (CLV) Prediction
-Customer Segmentation using Machine Learning
-Sales Forecasting Models
-Real-Time Dashboard Integration
-Recommendation System Development
+
++ Customer Lifetime Value (CLV) Prediction
++ Customer Segmentation using Machine Learning
++ Sales Forecasting Models
++ Real-Time Dashboard Integration
++ Recommendation System Development
+
 Conclusion
 
 This project demonstrates how data analytics and business intelligence tools can transform raw customer data into actionable insights. By combining Python, MySQL, and Power BI, the dashboard provides a comprehensive view of customer behavior, helping organizations improve decision-making, customer retention, and revenue growth.
